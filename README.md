@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![dude writing code](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+![dude writing code](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
 - ⌨ I’m currently working on my **readme file**.
 - 🐠 I’m currently learning at *neuefische*.
