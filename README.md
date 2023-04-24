@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![dude writing code](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
+
 - ⌨ I’m currently working on my **readme file**.
 - 🐠 I’m currently learning at *neuefische*.
 - 💬 Ask me about my dog! 🐕‍🦺
