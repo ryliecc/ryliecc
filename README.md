@@ -13,4 +13,6 @@
 
 ![cute dog writing some code on his macbook](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryliecc)](https://github.com/anuraghazra/github-readme-stats)
+
 [^1]: I was 12.
