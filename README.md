@@ -10,6 +10,8 @@
 - ⚧ Pronouns: he/him
 - ⚡ Fun fact: My first few lines of code were written for Neopets. [^1]
 
+[![Rylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryliecc&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Rylie's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryliecc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [^1]: I was 12.
