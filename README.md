@@ -4,7 +4,7 @@
 ![dude writing code](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
 
-- ⌨ I’m currently working on my **Rick & Morty app**.
+- ⌨ I’m currently working on my **Rick & Morty and Journal apps**.
 - 🐠 I’m learning at *neuefische*.
 - 💬 Ask me about my dog! 🐕‍🦺
 - ⚧ Pronouns: he/him
