@@ -4,7 +4,7 @@
 ![dude writing code](https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif)
 
 
-- ⌨ I’m currently working on my **React Quiz app**.
+- ⌨ I’m currently working on my **Capstone Project**.
 - 🐠 I’m learning to code at *neuefische*.
 - 💬 Ask me about my dog! 🐕‍🦺
 - ⚡ Fun fact: I taught myself some basic HTML when I was just 12 years old because I wanted to be able to build cool websites on Neopets.
