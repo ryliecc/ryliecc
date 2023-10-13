@@ -1,8 +1,8 @@
-# Hi there, I'm Rylie (he/him) 👋
+# Hi there, I'm Rylie 👋
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Frontend Developer
+## I'm a Full Stack Web Developer
 
 - 👨‍💻 I’m currently working on web development technologies like Java, JavaScript, React, Next.js etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies.
