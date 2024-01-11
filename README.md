@@ -5,7 +5,7 @@
 ## I'm a Full Stack Web Developer
 
 - 👨‍💻 I’m currently working on web development technologies like Java, JavaScript, React, Next.js etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies.
+- 📚 I’m currently learning React Native and Tailwind CSS.
 - 💪🏼 Future Goals: Publish my own first little app.
 - ⚡ Fun fact: When I was a teenager I hacked my first video game console, because I wanted to do things that the developers didn't let me.
 
