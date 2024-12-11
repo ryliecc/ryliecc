@@ -5,7 +5,7 @@
 ## I'm a Full Stack Web Developer
 
 - 👨‍💻 I’m currently working on web development technologies like Java, JavaScript, React, Next.js etc.
-- 📚 I’m starting a bootcamp to become an App Developer soon at Syntax Institut.
+- 📚 I’m starting a 12-month bootcamp to become an App Developer soon at Syntax Institut.
 - 💪🏼 Future Goals: Publish my own first little app.
 - ⚡ Fun fact: I wrote my first few lines of code in elementary school when I tried to create my own website on Neopets with their NeoHTML.
 
