@@ -5,16 +5,15 @@
 ## I'm a Full Stack Web Developer
 
 - 👨‍💻 I’m currently working on web development technologies like Java, JavaScript, React, Next.js etc.
-- 📚 I’m currently learning React Native and Tailwind CSS.
+- 📚 I’m starting a bootcamp to become an App Developer soon at Syntax Institut.
 - 💪🏼 Future Goals: Publish my own first little app.
-- ⚡ Fun fact: When I was a teenager I hacked my first video game console, because I wanted to do things that the developers didn't let me.
+- ⚡ Fun fact: I wrote my first few lines of code in elementary school when I tried to create my own website on Neopets with their NeoHTML.
 
 ---
 
 ### Connect with me 📝
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rylie.castell@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-rylie-castell-34b4a727a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rylie.castell)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ryliecc)
 
