@@ -5,6 +5,14 @@ I'm passionate about building beautiful, accessible apps – from concept to dep
 
 ---
 
+## 🧪 Current Side Project
+
+I'm currently working on my personal **portfolio website** to present my projects, skills, and experience.  
+It's the first time I'm applying my **UI/UX design knowledge** outside of class, including Figma workflows and Material Design 3 principles.  
+This project is helping me strengthen my frontend skills while focusing on clean layouts, accessibility, and responsive design.
+
+---
+
 ## 🛠 Tech Stack
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" align="right" />
