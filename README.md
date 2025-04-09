@@ -30,21 +30,27 @@ This project is helping me strengthen my frontend skills while focusing on clean
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square)
+
+### 📱 App Development
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=xcode&logoColor=white&style=flat-square)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white&style=flat-square)
+![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=flat-square)
 
 ### ☁️ Cloud & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat-square)
 ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=flat-square)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=white&style=flat-square)
 
 ### 🧰 Dev Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=flat-square)
 ![Prettier](https://img.shields.io/badge/Prettier-F7BA3E?logo=prettier&logoColor=black&style=flat-square)
+![npm](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=flat-square)
 
----
-
-## 🎨 Design Skills
+### 🎨 Design Skills
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=flat-square)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=black&style=flat-square)
 
