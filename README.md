@@ -65,7 +65,6 @@ This project is helping me strengthen my frontend skills while focusing on clean
 
 ## 📬 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rylie.castell@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rylie.castell)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/ryliecc)
 
